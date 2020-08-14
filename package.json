@@ -1,0 +1,29 @@
+{
+  "name": "@kevinnls/learning_how-to-npm",
+  "version": "0.1.1",
+  "description": "i'm learning how to npm!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "how-to-npm",
+    "npm",
+    "node",
+    "basics"
+  ],
+  "author": "kevinnls",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kevinnls/learning-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kevinnls/learning-npm/issues"
+  },
+  "homepage": "https://github.com/kevinnls/learning-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
+}
