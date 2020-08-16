@@ -1,6 +1,6 @@
 {
   "name": "@kevinnls/my-npm",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "i'm learning to use npm",
   "main": "index.js",
   "dependencies": {
