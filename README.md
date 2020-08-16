@@ -1,1 +1,1 @@
-i'm learning how to npm!
+i'm learning to use npm
